@@ -1,1 +1,1 @@
-# algorithm-analysis-insertion-selection-sort
+# algorithm-analysis-sort

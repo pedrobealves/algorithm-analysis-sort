@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/trecky/Público/untitle/main.c
+/home/trecky/Público/algorithm-analysis-sort/main.c
 stdio.h
+-
+stdlib.h
+-
+time.h
 -
 

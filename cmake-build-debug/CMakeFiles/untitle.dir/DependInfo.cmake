@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/trecky/Público/untitle/main.c" "/home/trecky/Público/untitle/cmake-build-debug/CMakeFiles/untitle.dir/main.c.o"
+  "/home/trecky/Público/algorithm-analysis-sort/main.c" "/home/trecky/Público/algorithm-analysis-sort/cmake-build-debug/CMakeFiles/untitle.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

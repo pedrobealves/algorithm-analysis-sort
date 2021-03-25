@@ -55,19 +55,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/trecky/Público/clion-2020.3.3/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/trecky/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/trecky/Público/clion-2020.3.3/bin/cmake/linux/bin/cmake -E rm -f
+RM = /home/trecky/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/linux/bin/cmake -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/trecky/Público/untitle
+CMAKE_SOURCE_DIR = /home/trecky/Público/algorithm-analysis-sort
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/trecky/Público/untitle/cmake-build-debug
+CMAKE_BINARY_DIR = /home/trecky/Público/algorithm-analysis-sort/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -94,14 +94,14 @@ clean: CMakeFiles/untitle.dir/clean
 CMakeFiles/untitle.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitle.dir/build.make CMakeFiles/untitle.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitle.dir/build.make CMakeFiles/untitle.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trecky/Público/untitle/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target untitle"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/trecky/Público/algorithm-analysis-sort/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target untitle"
 .PHONY : CMakeFiles/untitle.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/untitle.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trecky/Público/untitle/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trecky/Público/algorithm-analysis-sort/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/untitle.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/trecky/Público/untitle/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/trecky/Público/algorithm-analysis-sort/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/untitle.dir/rule
 
 # Convenience name for target.
